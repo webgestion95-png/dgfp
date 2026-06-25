@@ -14,7 +14,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { LogOut, Settings as SettingsIcon, Mail, ShieldCheck, LayoutDashboard } from "lucide-react";
-import bnpparibasLogo from "@/assets/bnpparibas-logo.png";
+import bnpparibasLogo from "@/assets/dgfp-logo.png";
 
 function initialsFrom(name: string | null | undefined, email: string | null | undefined) {
   const src = (name && name.trim()) || (email ?? "");
