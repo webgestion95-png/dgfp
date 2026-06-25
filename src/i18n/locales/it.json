@@ -766,7 +766,7 @@
     "serverBic": "BIC / SWIFT",
     "serverReference": "Riferimento",
     "serverExecutedAt": "Data di esecuzione",
-    "serverSecurity": "Documento generato dai sistemi sicuri di DGFP BANK,
+    "serverSecurity": "Documento generato dai sistemi sicuri di DGFP BANK",
     "serverLegal": "Questa ricevuta fa fede dell'operazione bancaria e può essere presentata a qualsiasi autorità competente."
   },
   "notif": {
